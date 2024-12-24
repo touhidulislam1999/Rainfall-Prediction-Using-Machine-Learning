@@ -9,7 +9,7 @@ This project focuses on **predicting rainfall** using historical weather data an
 The **Rainfall Prediction** project leverages advanced **machine learning algorithms** to analyze historical weather patterns and provide accurate predictions for future conditions. The repository includes:
 - Comprehensive codebase
 - Preprocessed datasets
-- Documentation for all steps
+- Documentation for steps
 - Results showcasing the model's performance
 
 ---
